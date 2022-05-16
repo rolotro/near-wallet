@@ -75,7 +75,7 @@
             "customAmount": "Другая",
             "exchange": "Обмен",
             "orAskFriend": "или спроси у друга!",
-            "orSendNear": "...или отправьте по крайней мере $ {сумму} РЯДОМ с адресом вашего кошелька.",
+            "orSendNear": "...или отправьте по крайней мере $ {сумму} NEAR с адресом вашего кошелька.",
             "sendFrom": "Отправить с",
             "title": "Почти на месте! Для начала купите несколько монет с помощью одного из провайдеров...",
             "titleAlt": "Почти на месте! Для начала отправьте хотя бы ${amount} NEAR на адрес вашего кошелька."
@@ -157,7 +157,7 @@
         "pageTitle": "Доверенные приложения",
         "publicKey": "Публичный ключ"
     },
-    "availableBalanceInfo": "Ваш расходуемый баланс в Near, за исключением застейканных или размещенных средств. <a href='/profile'>Просмотр Расходуемого баланса →</a>",
+    "availableBalanceInfo": "Ваш расходуемый баланс в NEAR, за исключением застейканных или размещенных средств. <a href='/profile'>Просмотр Расходуемого баланса →</a>",
     "availableBalanceProfile": "Это ваш расходуемый баланс в NEAR, может быть незамедлительно потрачен или передан. Это значение ниже, чем ваш общий баланс.",
     "back": "Назад",
     "balance": {
@@ -170,68 +170,68 @@
     },
     "button": {
         "addAccount": "Добавить учетную запись",
-        "addFunds": "ДОБАВИТЬ СРЕДСТВА",
-        "addNode": "ДОБАВИТЬ ПРИМЕЧАНИЕ",
-        "allow": "ПРИНЯТЬ",
+        "addFunds": "Добавить средства",
+        "addNode": "Добавить примечание",
+        "allow": "Принять",
         "authorizing": "Авторизация",
-        "browseApps": "ОБЗОР ПРИЛОЖЕНИЙ",
-        "cancel": "ОТМЕНА",
+        "browseApps": "Обзор Приложений",
+        "cancel": "Отмена",
         "cancelOperation": "Отменить операцию",
-        "cancelTransfer": "ОТМЕНИТЬ ПЕРЕВОД",
+        "cancelTransfer": "Отменить перевод",
         "claimAccount": "Затребовать учетную запись",
-        "close": "ЗАКРЫТЬ",
+        "close": "Закрыть",
         "Close": "Закрыть",
-        "confirm": "ПОДТВЕРДИТЬ",
-        "confirmAndSend": "ПОДТВЕРДИТЬ",
+        "confirm": "Подтвердить",
+        "confirmAndSend": "Подтвердить",
         "connect": "Подключить",
         "connecting": "Подключение",
         "connectLedger": "Подключить Ledger",
-        "continue": "ПРОДОЛЖИТЬ",
+        "continue": "Продолжить",
         "continueSetup": "Продолжить установку",
         "copyImplicitAddress": "Скопировать адрес для пополнения",
-        "copyPhrase": "СКОПИРОВАТЬ ФРАЗУ",
+        "copyPhrase": "Скопировать фразу",
         "copyUrl": "Скопировать ссылку",
         "createAccount": "Создать учетную запись",
         "createAccountCapital": "Создать учетную запись",
         "createNewAccount": "Создать учетную запись",
-        "deauthorize": "ДЕАВТОРИЗОВАТЬ",
+        "deauthorize": "Деавторизировать",
         "deAuthorizing": "Снятие авторизации",
-        "deny": "ОТКЛОНИТЬ",
+        "deny": "Отклонить",
         "disable": "Отключить",
         "disabling": "Выключение",
         "dismiss": "Отказаться",
         "edit": "Редактировать",
         "enable": "Включить",
         "enabling": "Включение",
-        "findMyAccount": "НАЙТИ УЧЕТНУЮ ЗАПИСЬ",
+        "findMyAccount": "Найти учётную запись",
         "finish": "Закончить",
         "goBack": "Вернуться назад",
-        "goToDashboard": "ПЕРЕЙТИ В ПАНЕЛЬ УПРАВЛЕНИЯ",
+        "goToDashboard": "Перейти в панель управления",
         "importExistingAccount": "Импорт существующей учетной записи",
         "moreInformation": "Получить больше информации",
         "needToEditGoBack": "Вернуться назад для редактирования",
-        "protectAccount": "ЗАЩИТИТЬ УЧЕТНУЮ ЗАПИСЬ",
+        "protectAccount": "Защитить учётную запись",
         "recoverAccount": "Восстановить учетную запись",
         "recovering": "Поиск учетной записи",
         "recoverYourAccount": "Восстановить учетную запись",
-        "removeNode": "УДАЛИТЬ ПРИМЕЧАНИЕ",
+        "removeNode": "Удалить примечание",
         "removingKeys": "Удаление ключей",
         "retry": "Повторить",
-        "saveChanges": "СОХРАНИТЬ ИЗМЕНЕНИЯ",
-        "send": "ОТПРАВИТЬ",
-        "setupPhrase": "ИСПОЛЬЗОВАТЬ ФРАЗУ ВОССТАНОВЛЕНИЯ",
+        "saveChanges": "Сохранить изменения",
+        "send": "Отправить",
+        "setupPhrase": "Использовать фразу восстановления",
         "signIn": "Войти",
         "signingIn": "Входим",
         "signInLedger": "Войти с помощью Ledger",
         "skip": "Пропустить",
-        "stake": "СТЕЙКИНГ",
+        "stake": "Стейкинг",
         "staking": "Стейкинг",
         "startOver": "Начать сначала",
         "subscribe": "Подписаться",
         "swap": "Обмен",
         "transferring": "Перевод",
         "unstaking": "Снятие со стейкинга",
-        "verify": "ПРОВЕРИТЬ И ЗАВЕРШИТЬ",
+        "verify": "Проверить и завершить",
         "verifyCode": "Верифицировать код",
         "verifyCodeEnable": "Верифицировать и продолжить",
         "verifying": "Верификация",
@@ -319,7 +319,7 @@
     },
     "disclaimer": {
         "text": "Это предварительный кошелек разработчиков. Он должен использоваться только для NEAR Protocol DevNet. Узнайте больше на сайте ",
-        "title": "ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ"
+        "title": "Отказ от ответственности"
     },
     "emailSubscribe": {
         "placeholder": "Ваш емейл...",
@@ -350,10 +350,10 @@
         "termsOfService": "Условия обслуживания"
     },
     "fullAccessKeys": {
-        "authorizedTo": "АВТОРИЗОВАН",
+        "authorizedTo": "Авторизован",
         "dashboardNoKeys": "У вас нет полных ключей доступа",
         "noKeys": "Вы не подключили свой NEAR кошелек к каким-либо приложениям. Когда вы это сделаете, вы сможете управлять ими здесь.<br /><br />Посмотрите, что было построено с помощью NEAR:",
-        "pageTitle": "Ключи Полного Доступа",
+        "pageTitle": "Ключи полного доступа",
         "submitAnyTransaction": "Отправлять любые транзакции от вашего имени",
         "useContract": "Использовать <b>${receiverId}</b> контракт от вашего имени",
         "viewYourAccountName": "Просмотр имени вашей учетной записи"
@@ -375,18 +375,18 @@
         "title": "Аппаратные устройства"
     },
     "importAccountWithLink": {
-        "accountFound": "1 Account Found",
-        "accountImported": "Account Imported",
-        "accountsFound": "${count} Accounts Found",
-        "alreadyImported": "The account secured by this link has been imported.",
-        "continue": "and continue this process in your browser of choice.",
-        "copyUrl": "copy the URL",
-        "foundAccount": "We found <b>1 account</b> secured by this link.",
-        "foundAccounts": "We found <b>${count} accounts</b> secured by this link.",
-        "goToAccount": "Go to Account",
-        "import": "Import",
-        "importAccount": "Import Your Account",
-        "preferedBrowser": "If this isn't your preferred browser,"
+        "accountFound": "1 Аккаунт найден",
+        "accountImported": "Аккаунт импортирован",
+        "accountsFound": "${count} Аккаунты найдены",
+        "alreadyImported": "Аккаунт, защищенный этой ссылкой, был импортирован.",
+        "continue": "и продолжите этот процесс в выбранном вами браузере.",
+        "copyUrl": "скопируйте URL-адрес",
+        "foundAccount": "Мы нашли <b>1 аккаунт</b> защищённый по этой ссылке.",
+        "foundAccounts": "Мы нашли <b>${count} аккаунта/ов</b> защищённых по этой ссылке.",
+        "goToAccount": "Перейти к учетной записи",
+        "import": "Импорт",
+        "importAccount": "Импортируйте свою учетную запись",
+        "preferedBrowser": "Если это не ваш предпотительный браузер,"
     },
     "initialDeposit": {
         "claimAccount": {
@@ -395,10 +395,10 @@
                 "checkBox": "Соглашайтесь и продолжайте",
                 "desc": "Важно: Старый адрес одноразового финансирования больше не будет действительным. Обязательно замените его своим новым адресом на любых биржах или других устройствах, где он мог быть сохранен."
             },
-            "title": "Востребуйте Свой Аккаунт"
+            "title": "Востребуйте свой аккаунт"
         },
         "creditCard": {
-            "desc": "Завершите покупку <b>по крайней мере ${amount} NEAR</b> через Мунпэй. MoonPay автоматически переведет ваши средства на ваш новый аккаунт.",
+            "desc": "Завершите покупку <b>по крайней мере ${amount} NEAR</b> через MoonPay. MoonPay автоматически переведет ваши средства на ваш новый аккаунт.",
             "title": "Пополните свой новый аккаунт с помощью кредитной карты."
         },
         "manualDeposit": {
@@ -447,13 +447,13 @@
         "authorizedApps": "Доверенные приложения",
         "donateToUkraine": "Пожертвовать Украине",
         "fullAccessKeys": "Ключи полного доступа",
-        "help": "ПОМОЩЬ",
+        "help": "Помощь",
         "noAccount": "У вас нет других учетных записей",
         "profile": "Профиль",
-        "receive": "ПОЛУЧИТЬ",
-        "send": "ОТПРАВИТЬ",
+        "receive": "Получить",
+        "send": "Отправить",
         "staking": "Стейкинг",
-        "summary": "ГЛАВНОЕ",
+        "summary": "Главное",
         "switchAccount": "Переключить учетную запись",
         "wallet": "Кошелёк"
     },
@@ -462,7 +462,7 @@
     "login": {
         "cliLoginSuccess": {
             "pageText": "Пожалуйста, закройте это окно и следуйте инструкциям в терминале.",
-            "pageTitle": "Вы успешно автрризовали NEAR Shell!"
+            "pageTitle": "Вы успешно авторизовали NEAR Shell!"
         },
         "confirm": {
             "pageText": "Вы даете согласие <b>на полный доступ</b> к ${appTitle}!",
@@ -544,7 +544,7 @@
         "title": "Тестовый кошелек"
     },
     "NFTTransfer": {
-        "youSent": "You sent <span class='color-blue'>${title}</span> to <span class='color-green'>${receiverId}</span>"
+        "youSent": "Вы отправили <span class='color-blue'>${title}</span> к <span class='color-green'>${receiverId}</span>"
     },
     "nodeDetails": {
         "pageText": "Обновить сведения о вашем узле.",
@@ -582,7 +582,7 @@
     },
     "of": "из",
     "ofTotal": "из всего",
-    "or": "ИЛИ",
+    "or": "или",
     "profile": {
         "account": {
             "available": "Доступно",
@@ -600,12 +600,12 @@
             "availableBalance": "Доступный баланс",
             "locked": "Заблокировано",
             "lockPopup": {
-                "createAnotherAccount": "создать еще одну учетную запись",
+                "createAnotherAccount": "Создать еще одну учетную запись",
                 "text": "Ваше имя пользователя является вашим уникальным логиномом в системе и не может быть изменено, поскольку к нему привязаны данные и право собственности на активы. Однако вы можете ${link} с желаемым именем и отправлять активы по мере необходимости.",
                 "title": "Почему это заблокировано?"
             },
             "minBalance": "Минимальный баланс",
-            "profile": "ПРОФИЛЬ",
+            "profile": "Профиль",
             "public": "Всех",
             "qrDesc": "Используйте камеру вашего телефона для отправки на этот адрес",
             "staked": "В стейкинге",
@@ -613,7 +613,7 @@
             "unlocked": "Разблокировано",
             "unvested": "Зарезервированные токены",
             "username": "Имя пользователя",
-            "visibleTo": "ВИДЕН ДЛЯ"
+            "visibleTo": "Виден для"
         },
         "lockup": {
             "locked": "Заблокировано",
@@ -816,7 +816,7 @@
         "switchAccount": "Сменить учетную запись",
         "switchAccounthNotAllowed": "Это приложение не позволяет изменять учетную запись"
     },
-    "sending": "ОТПРАВКА",
+    "sending": "Отправка",
     "sendMoney": {
         "account": {
             "title": "Отправить на"
@@ -827,7 +827,7 @@
         "amountStatusId": {
             "available": "Доступный баланс:",
             "howMuch": "Сколько вы хотите отправить?",
-            "noMoreThan": "НЕ БОЛЕЕ 5 ДЕСЯТИЧНЫХ ЗНАКОВ",
+            "noMoreThan": "Не более 5 десятичных знаков",
             "notEnoughTokens": "Вы должны оставить хотя бы ${amount} NEAR в своей учетной записи",
             "sending": "Отправка:"
         },
@@ -866,7 +866,7 @@
         },
         "selectAsset": {
             "assetInputPlaceholder": "Имя актива для поиска",
-            "assetListNameTitle": "название",
+            "assetListNameTitle": "Название",
             "asssetListBalanceTitle": "Доступно для отправки",
             "title": "Выберите актив"
         },
@@ -875,7 +875,7 @@
         },
         "selectTokenButtonTitle": "Выберите актив",
         "success": {
-            "title": "Транзакция завершена!</br>Вы послали <span class='color-blue'>${amount}</span></br>к <span class='color-green'>${receiverId}</span>"
+            "title": "Транзакция завершена!</br>Вы отправили <span class='color-blue'>${amount}</span></br>к <span class='color-green'>${receiverId}</span>"
         },
         "translateIdInfoTooltip": {
             "estimatedFees": "Ориентировочная стоимость обработки вашей транзакции.",
@@ -908,7 +908,7 @@
     },
     "setRecoveryConfirm": {
         "didNotReceive": "Не получили код?",
-        "email": "адрес электронной почты",
+        "email": "Адрес электронной почты",
         "inputHeader": "Введите код подтверждения",
         "inputPlaceholder": "Код подтверждения",
         "invalidCode": "Некорректный код",
@@ -998,8 +998,8 @@
     },
     "sign": {
         "accountNotFound": {
-            "body": "${signCallbackUrl} is requesting authorization from a NEAR account that cannot be found: <b>${signTransactionSignerId}</b><br/><br/>To approve any transactions, you’ll first need to import the account.",
-            "title": "Account Not Found"
+            "body": "${signCallbackUrl} запрашивает авторизацию с учетной записи NEAR, которая не может быть найдена: <b>${signTransactionSignerId}</b><br/><br/>To approve any transactions, you’ll first need to import the account.",
+            "title": "Аккаунт не найден"
         },
         "ActionWarrning": {
             "binaryData": "Аргументы содержат бинарные данные",
@@ -1022,16 +1022,16 @@
         "hereAreSomeDetails": "Вот некоторые детали, которые помогут вам.",
         "insufficientFunds": "Недостаточно средств",
         "invalidTransaction": {
-            "body": "The request is invalid and cannot be signed.",
-            "title": "Invalid Transaction"
+            "body": "Запрос недействителен и не может быть подписан.",
+            "title": "Недействительная транзакция"
         },
         "isRequesting": {
             "authorization": "запрашивает разрешение",
             "transferOf": "запрашивает перевод"
         },
         "multipleAccountsError": {
-            "body": "<a href='${signCallbackUrl}' target='_blank' rel='noreferrer'>${signCallbackUrl}</a> has requested authorization from more than one account.<br/><br/>NEAR Wallet may only authorize transactions for a single account at a time.",
-            "title": "Batch Transaction Error"
+            "body": "<a href='${signCallbackUrl}' target='_blank' rel='noreferrer'>${signCallbackUrl}</a> запросил авторизацию с более чем одной учетной записи.<br/><br/>NEAR Wallet may only authorize transactions for a single account at a time.",
+            "title": "Ошибка пакетной транзакции"
         },
         "nothingHasBeenTransferred": "Ничего не было передано.",
         "transactionCancelled": "Транзакция отменена",
@@ -1215,26 +1215,26 @@
         "TradingFee": "Торговая комиссия"
     },
     "swapNear": {
-        "confirm": "Confirm & Swap",
-        "details": "Transaction details",
-        "fee": "Liquidity Provider Fee",
-        "from": "From",
+        "confirm": "Подтвердить и поменять",
+        "details": "Детали транзакции",
+        "fee": "Комиссия поставщика ликвидности",
+        "from": "От",
         "max": "Max: ${amount} ${symbol}",
-        "minReceived": "Minimum received",
-        "price": "Price",
-        "priceImpact": "Price Impact",
-        "review": "Review Swap",
-        "reviewInfo": "You are swapping",
-        "successTitle": "Transaction complete!</br>You swapped <span class='color-blue space'>${amount}</span></br>to <span class='color-green'>${tokenTo}</span>",
-        "title": "Swap",
-        "to": "To",
+        "minReceived": "Минимум получен",
+        "price": "Цена",
+        "priceImpact": "Влияние цены",
+        "review": "Обменять",
+        "reviewInfo": "Вы обмениваетесь",
+        "successTitle": "Транзакция завершена!</br>Вы обменялись <span class='color-blue space'>${amount}</span></br>к <span class='color-green'>${tokenTo}</span>",
+        "title": "Обмен",
+        "to": "К",
         "translateIdInfoTooltip": {
-            "liquidityProviderFee": "The estimated cost of processing your transaction.",
-            "minimumReceived": "The minimum amount you will receive from the trade.",
-            "priceImpact": "The difference between the market price and estimated price due to trade size."
+            "liquidityProviderFee": "Ориентировочная стоимость обработки вашей транзакции.",
+            "minimumReceived": "Минимальная сумма, которую вы получите от сделки.",
+            "priceImpact": "Разница между рыночной ценой и оценочной ценой из-за размера сделки."
         }
     },
-    "swapping": "Swapping",
+    "swapping": "Обмен",
     "topLevelAccounts": {
         "body": "Имена учетных записей похожи на доменные имена. Только учетная запись ${data} может создавать такие учетные записи, как yourname.${data}, и только yourname.${data} может создать app.yourname.${data}. Все учетные записи, созданные в этом кошельке, используют .${data} Учетные записи верхнего уровня (TLA). Чтобы узнать больше об именах учетных записей и создать собственную учетную запись верхнего уровня, прочтите документацию <a rel='noopener noreferrer' href='https://docs.near.org/docs/concepts/account'>docs</a>.",
         "header": "Учетные записи верхнего уровня"
